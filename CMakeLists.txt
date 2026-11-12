@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 3.22)
 
+# Windows: link the C++ runtime statically so the .exe runs on a fresh PC
+# without installing the "Visual C++ Redistributable" (VCRUNTIME140.dll...).
+set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
+
 project(Pedalier VERSION 0.1.0 LANGUAGES C CXX)
 
 set(CMAKE_CXX_STANDARD 20)
