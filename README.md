@@ -27,7 +27,7 @@ Branche le pédalier MIDI **avant** de lancer l'application.
 
 ### Télécharger (Windows)
 
-**[⬇ Télécharger Pedalier-Banc-d-essai.exe](https://github.com/poulpit-rgb/Pedalboardin/releases/latest/download/Pedalier-Banc-d-essai.exe)**
+**[⬇ Télécharger Pedalier-Banc-d-essai-Windows.zip](https://github.com/poulpit-rgb/Pedalboardin/releases/latest/download/Pedalier-Banc-d-essai-Windows.zip)**
 (toujours la dernière version, voir aussi la page [Releases](https://github.com/poulpit-rgb/Pedalboardin/releases)).
 
 ### Compiler soi-même
